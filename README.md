@@ -1,7 +1,5 @@
-## Hi there 👋
-
 <div align="center">
-Hi, I'm Bernardo David Garcia Saucedo 👋
+Hi, I'm Bernardo David Garcia Saucedo 
 
 Software Engineering student at the University of Colima 🇲🇽 (2023–2027)
 
@@ -14,7 +12,7 @@ LinkedIn Email
 
 I'm a seventh-semester Software Engineering student looking for an internship where I can contribute to software development and keep growing in DevOps, automation and infrastructure.
 
-🛠️ Tech stack
+*Tech stack
 Area	Tools
 Web	PHP, JavaScript, HTML5, CSS3, Bootstrap 5
 Databases	MySQL, SQL
@@ -23,7 +21,7 @@ Containers & OS	Docker, Docker Compose, Linux
 Parallel computing	C++, OpenMP, MPI
 Accessibility	WCAG, keyboard navigation, alt text, color contrast
 Currently learning	Python, FastAPI, REST APIs, CI/CD
-📌 Featured projects
+* Featured projects
 parallel-computing-openmp-mpi – Parallel programming with OpenMP and MPI (π calculation, Mandelbrot set), containerized with Docker.
 pagerank-snap-openmp – PageRank in C++ using Stanford's SNAP library, comparing a sequential implementation against an OpenMP one on real-world web graphs.
 Web-Accesibility – Accessible website built with WCAG criteria in mind.
@@ -35,11 +33,11 @@ Other work (university service management system, Interlaci freight platform) li
 
 Soy estudiante de séptimo semestre de Ingeniería de Software y busco prácticas profesionales donde pueda aportar al desarrollo de software y seguir creciendo en DevOps, automatización e infraestructura.
 
-🛠️ Tecnologías
+* Tecnologías
 
 Web (PHP, JavaScript, HTML5, CSS3, Bootstrap) · MySQL · Git y GitHub · Docker, Docker Compose y Linux · C++ con OpenMP y MPI · Accesibilidad web (WCAG) · Aprendiendo Python, FastAPI, APIs REST y CI/CD.
 
-📌 Proyectos destacados
+* Proyectos destacados
 parallel-computing-openmp-mpi – Programación paralela con OpenMP y MPI (cálculo de π, conjunto de Mandelbrot), con Docker.
 pagerank-snap-openmp – PageRank en C++ con la librería SNAP de Stanford, comparando la versión secuencial contra OpenMP.
 Web-Accesibility – Sitio web accesible basado en criterios WCAG.
