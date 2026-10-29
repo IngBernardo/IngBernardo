@@ -5,7 +5,8 @@ Software Engineering student at the University of Colima 🇲🇽 (2023–2027)
 
 Web development · Containers · Parallel computing · Learning DevOps
 
-LinkedIn Email
+www.linkedin.com/in/bernardo-david-garcia-saucedo
+david.garciasau@gmail.com
 
 </div>
 🇬🇧 About me
